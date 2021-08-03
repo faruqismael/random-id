@@ -1,0 +1,23 @@
+{
+  "name": "randomstring",
+  "version": "1.0.0",
+  "description": "a package to generate random string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faruqismael/random-string.git"
+  },
+  "keywords": [
+    "string",
+    "shortid"
+  ],
+  "author": "Faruq Ismael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faruqismael/random-string/issues"
+  },
+  "homepage": "https://github.com/faruqismael/random-string#readme"
+}
