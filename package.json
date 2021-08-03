@@ -1,23 +1,24 @@
 {
-  "name": "randomstring",
+  "name": "randomid",
   "version": "1.0.0",
-  "description": "a package to generate random string",
+  "description": "a package to generate random string id",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faruqismael/random-string.git"
+    "url": "git+https://github.com/faruqismael/random-id.git"
   },
   "keywords": [
+    "id",
     "string",
     "shortid"
   ],
   "author": "Faruq Ismael",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/faruqismael/random-string/issues"
+    "url": "https://github.com/faruqismael/random-id/issues"
   },
-  "homepage": "https://github.com/faruqismael/random-string#readme"
+  "homepage": "https://github.com/faruqismael/random-id#readme"
 }
